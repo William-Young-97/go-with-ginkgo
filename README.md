@@ -1,3 +1,9 @@
+# Go with Ginkgo
+### Aims
+- To use BDD with Go and Ginkgo to test drive basic applications.
+- To familiarise myself with Go syntax
+- To understand common practices and quirks of Go
+
 ## Personal notes
 
 ### Ginkgo set up
@@ -9,7 +15,7 @@
 
 - Next run:
 
-`` go install -mod=mod github.com/onsi/ginkgo/v2/ginkgo
+`` go install -mod=mod github.com/onsi/ginkgo/v2/ginkgo;
 go get github.com/onsi/gomega/... ``
 
 - Then cd into that directory and run:
