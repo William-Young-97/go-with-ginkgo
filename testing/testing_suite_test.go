@@ -1,7 +1,7 @@
 package testing_test
 
 import (
-	testing2 "simple-test/testing"
+	testing2 "github/William-Young-97.com/simple-test/testing"
 	"testing"
 
 	. "github.com/onsi/ginkgo"

@@ -24,4 +24,15 @@ go get github.com/onsi/gomega/... ``
 
 - Observe the file generates and ensure that you click through your go mod file so that you have your go.sum checklist.
 
+### Sytnax
+#### Public vs private
+- Setting the first letter of a variable to uppercase makes it public, meaning it can be exported.
+- var Age == public
+- var age == private
+
+### Commands
+
+`` ginkgo -r `` 
+Will run tests recursively across all test suites
+
 

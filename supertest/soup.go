@@ -1,4 +1,4 @@
-package testing
+package supertest
 
 type Person struct {
 	Age int
