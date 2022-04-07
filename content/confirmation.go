@@ -1,4 +1,4 @@
-package testing
+package confirmation
 
 type Person struct {
 	Age int
