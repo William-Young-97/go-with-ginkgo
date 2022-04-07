@@ -36,6 +36,8 @@ go get github.com/onsi/gomega/... ``
 
 - Use ginkgo generate to create a seperate test file where you will write your tests for the package.
 
+- Typically code will be organised with one test file per package
+
 ### Sytnax
 #### Public vs private
 - Setting the first letter of a variable to uppercase makes it public, meaning it can be exported.
